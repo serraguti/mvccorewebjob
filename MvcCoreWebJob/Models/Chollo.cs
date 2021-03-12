@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MvcCoreWebJob.Models
 {
-    [Table("DATOSWEBJOBS")]
+    [Table("DATOSWEBJOB")]
     public class Chollo
     {
         [Key]

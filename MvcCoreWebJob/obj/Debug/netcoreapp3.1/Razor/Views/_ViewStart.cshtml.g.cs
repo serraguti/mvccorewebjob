@@ -19,8 +19,15 @@ using MvcCoreWebJob;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcCoreWebJob\MvcCoreWebJob\Views\_ViewImports.cshtml"
+using MvcCoreWebJob.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"edc36020689c0979f79171c3f25493acf300bb9d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5c586da184d1f6d40400dcee1ee0c854404d31df", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
