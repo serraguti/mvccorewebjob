@@ -18,7 +18,8 @@ namespace MvcCoreWebJob.Repositories
 
         public List<Chollo> GetChollos()
         {
-            return this.context.Chollos.ToList();
+            return this.context.Chollos.OrderByDescending(x => x.IdTitular)
+                .ToList();
         }
     }
 }
